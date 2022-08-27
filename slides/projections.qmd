@@ -1,0 +1,32 @@
+---
+title: "Projections"
+format: revealjs
+editor: visual
+---
+
+## The Shape of the Earth
+
+![](earth-shapes.jpg)
+
+
+
+## Coordinate Reference Systems (CRS)
+
+We'll use *projection* and *CRS* interchangeably. <br>
+
+*projection* and *CRS* are a mathem
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Next
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
